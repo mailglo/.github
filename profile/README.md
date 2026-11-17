@@ -2,7 +2,7 @@
 
 Keep your business email trusted.
 
-MailGlo manages SPF and DMARC, monitors senders, and helps you fix authentication problems. See which services send email in your name and where their authentication fails. You approve new senders and policy changes.
+MailGlo manages SPF and DMARC, monitors senders, and helps you fix authentication problems. These settings help inboxes check that mail in your name really comes from you. See which services send email in your name and where their authentication fails. You approve new senders and policy changes.
 
 Manage your own domains or your clients' email settings. Use the dashboard, connect an AI assistant, or work from your terminal.
 
