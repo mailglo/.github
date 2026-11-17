@@ -1,6 +1,10 @@
 # MailGlo
 
-MailGlo manages the SPF and DMARC settings that let Gmail, Outlook and other inboxes check that mail in your name really comes from you, for businesses and the IT providers who look after their email.
+Keep your business email trusted.
+
+MailGlo manages SPF and DMARC, monitors senders, and helps you fix authentication problems. See which services send email in your name and where their authentication fails. You approve new senders and policy changes.
+
+Manage your own domains or your clients' email settings. Use the dashboard, connect an AI assistant, or work from your terminal.
 
 - **Check a domain** without an account: https://mailglo.com/check/
 - **Start free:** one domain is free. Plans: https://mailglo.com/pricing/
